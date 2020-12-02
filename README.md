@@ -2,10 +2,7 @@
 
 I'm Harshiv, a student at **School of Engineering & Applied Science, Ahmedabad University**. I am interested in software and web development using programming languages such as **HTML**, **CSS**, **Python**, **JavaScript** and it's frameworks like **NodeJS** and **ReactJS**. Check out my projects and works in *Repositories* section on [Github](https://github.com/Harshiv07?tab=repositories).
 
-I have previously worked as Web Developer in Gujarat State Fertilizers & Chemicals ltd.
-I have been selected for Nesternship - Nestle India Intership program.
-
-Vist my website: <a href="https://Harshiv07.github.io/#"><img src="" width="30" height="30" /></a>
+I am a passionate individual who has affinity for writing well-structured and clean codes. I have strong foundational knowledge for building web apps and websites with Django and MERN stack. I have certifications for my Python, HTML, CSS and JS skills from well-reputed universities
 
 ### Connect With Me
 
@@ -42,7 +39,7 @@ Vist my website: <a href="https://Harshiv07.github.io/#"><img src="" width="30" 
 <br />
 
 ### Organization
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcollegedunia.com%2Fcollege%2F13848-ahmedabad-university-school-of-engineering-and-applied-science-ahmedabad%2Fadmission&psig=AOvVaw0JHVJAbNeVHytDSyW8r5uG&ust=1607001727893000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCfv4uyr-0CFQAAAAAdAAAAABAD" width="60" height="60" />
+<img src="https://images.static-collegedunia.com/public/college_data/images/logos/1563357911VerticalStack.jpg" width="60" height="60" />
 
 ### Github Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Harshiv07)](https://github.com/Harshiv07/github-readme-stats)
