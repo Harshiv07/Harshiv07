@@ -1,7 +1,8 @@
 # Hi there, I'm Harshiv - Last Light
 
-I'm Harshiv, a student at **School of Engineering & Applied Science, Ahmedabad University**. I am interested in software and web development using programming languages such as **HTML**, **CSS**, **Python**, **JavaScript** and it's frameworks like **NodeJS** and **ReactJS**. Check out my projects and works in *Repositories* section on [Github](https://github.com/Harshiv07?tab=repositories).
+I'm Harshiv, a student at **School of Engineering & Applied Science, Ahmedabad University**. I am interested in software and web development using programming languages such as **HTML**, **CSS**, **Python**, **JavaScript** and it's frameworks like **Django**, **NodeJS** and **ReactJS**. Check out my projects and works in *Repositories* section on [Github](https://github.com/Harshiv07?tab=repositories).
 
+# About Me
 I am a passionate individual who has affinity for writing well-structured and clean codes. I have strong foundational knowledge for building web apps and websites with Django and MERN stack. I have certifications for my Python, HTML, CSS and JS skills from well-reputed universities
 
 ### Connect With Me
