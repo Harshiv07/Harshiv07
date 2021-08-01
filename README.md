@@ -18,9 +18,9 @@ I am a passionate individual who has affinity for writing well-structured and cl
 ### My Tech Skills: <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/Developer.gif" width="50" height="40" />
 - C / C++ Programming
 - Data Structures and Algorithms
-- Web Development: HTML5, Cascading StyleSheets (CSS3), JavaScript, ReactJS
+- Web Development: HTML5, Cascading StyleSheets (CSS3), JavaScript, ReactJS, NodeJs, Python
 - Databases: MySQL, MongoDB, SQLite
-- Web App Development (MERN Stack)
+- Web App Development:  MERN Stack, Django Framework
 </br>
 
 ### Languages and Tools:
