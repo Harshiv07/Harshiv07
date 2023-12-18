@@ -1,13 +1,18 @@
 # Hi there, I'm Harshiv - Last Light
 
-I'm Harshiv, a student of Masters in Computer Science at **Lakehead University**. I am interested in software and web development using programming languages such as **HTML**, **CSS**, **Python**, **JavaScript** and its frameworks like **Django**, **NodeJS**, and **ReactJS**. Check out my projects and works in the *Repositories* section on [Github](https://github.com/Harshiv07?tab=repositories).
+A Learner and Student of Masters in Computer Science at **Lakehead University** with 1.5+ years of full-time experience in the industry. I am currently finishing my co-op at Ceridian as a Software Developer. Highly interested in software and web development using any technology but mainly **JavaScript** and its frameworks, **Django**, **Python** and its libraries, and the standard **HTML** & **CSS**. Check out my projects and works in the *Repositories* section on [Github](https://github.com/Harshiv07?tab=repositories).
 
 # About Me
-I am a passionate individual who has an affinity for writing well-structured and clean codes. I have a strong foundational knowledge of building web apps and websites with Django and MERN stack. I have certifications for my Python, Data Science, Data Visualizations, and JS skills from well-reputed universities.
+  - A passionate individual with an affinity for writing well-structured and clean codes.
+  - Strong foundational knowledge for building web apps and websites with Django and MERN stack.
+  - Certifications for Python, Data Science, Data Visualizations, and Javascript skills from well-reputed universities and Coursera.
+  - A team player who will prioritize goals over working in a comfort area.
+  - Well-versed in documentation, effective technical communication, quick learning, and task prioritization.
+  - Experienced in scrum methodologies and have acted as the scrum master.
 
 ### Connect With Me
 
-<a href="https://www.linkedin.com/in/harshiv-patel-9b821b17a/">
+<a href="https://www.linkedin.com/in/harshiv07/">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/p_harshiv_10/">
