@@ -1,9 +1,9 @@
 # Hi there, I'm Harshiv - Last Light
 
-I'm Harshiv, a student at **School of Engineering & Applied Science, Ahmedabad University**. I am interested in software and web development using programming languages such as **HTML**, **CSS**, **Python**, **JavaScript** and it's frameworks like **Django**, **NodeJS** and **ReactJS**. Check out my projects and works in *Repositories* section on [Github](https://github.com/Harshiv07?tab=repositories).
+I'm Harshiv, a student of Masters in Computer Science at **Lakehead University**. I am interested in software and web development using programming languages such as **HTML**, **CSS**, **Python**, **JavaScript** and its frameworks like **Django**, **NodeJS**, and **ReactJS**. Check out my projects and works in the *Repositories* section on [Github](https://github.com/Harshiv07?tab=repositories).
 
 # About Me
-I am a passionate individual who has affinity for writing well-structured and clean codes. I have strong foundational knowledge for building web apps and websites with Django and MERN stack. I have certifications for my Python, HTML, CSS and JS skills from well-reputed universities
+I am a passionate individual who has an affinity for writing well-structured and clean codes. I have a strong foundational knowledge of building web apps and websites with Django and MERN stack. I have certifications for my Python, Data Science, Data Visualizations, and JS skills from well-reputed universities.
 
 ### Connect With Me
 
@@ -16,10 +16,10 @@ I am a passionate individual who has affinity for writing well-structured and cl
 </br>
 
 ### My Tech Skills: <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/Developer.gif" width="50" height="40" />
-- C / C++ Programming
+- Languages: JavaScript, Python, Java, C++ 
 - Data Structures and Algorithms
-- Web Development: HTML5, Cascading StyleSheets (CSS3), JavaScript, ReactJS, NodeJs, Python
-- Databases: MySQL, MongoDB, SQLite
+- Web Development: HTML5, Cascading StyleSheets (CSS3), JavaScript, ReactJS, NodeJs, Python, Unit Testing, Automation Testing (Selenium, SpecFlow)
+- Databases: MySQL, MongoDB, SQLite, Firebase
 - Web App Development:  MERN Stack, Django Framework
 </br>
 
