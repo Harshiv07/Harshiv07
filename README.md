@@ -1,12 +1,12 @@
 # Hi there, I'm Harshiv - Last Light
 
-A Learner and Student of Masters in Computer Science at **Lakehead University** with 1.5+ years of full-time experience in the industry. I am currently finishing my co-op at Ceridian as a Software Developer. Highly interested in software and web development using any technology but mainly **JavaScript** and its frameworks, **Django**, **Python** and its libraries, and the standard **HTML** & **CSS**. Check out my projects and works in the *Repositories* section on [Github](https://github.com/Harshiv07?tab=repositories).
+A Learner and Student of Masters in Computer Science at **Lakehead University** with 2+ years of full-time experience in the industry. I recently finished my co-op at Ceridian(Dayforce) as a Software Developer. Highly interested in software and web development using any technology but mainly **JavaScript** and its frameworks, **Django**, **Python** and its libraries, and the standard **HTML** & **CSS**. Check out my projects and works in the *Repositories* section on [Github](https://github.com/Harshiv07?tab=repositories).
 
 # About Me
   - A passionate individual with an affinity for writing well-structured and clean codes.
   - Strong foundational knowledge for building web apps and websites with Django and MERN stack.
   - Certifications for Python, Data Science, Data Visualizations, and Javascript skills from well-reputed universities and Coursera.
-  - A team player who will prioritize goals over working in a comfort area.
+  - A team player who prioritizes goals and steps outside the comfort zone.
   - Well-versed in documentation, effective technical communication, quick learning, and task prioritization.
   - Experienced in scrum methodologies and have acted as the scrum master.
 
@@ -21,11 +21,12 @@ A Learner and Student of Masters in Computer Science at **Lakehead University** 
 </br>
 
 ### My Tech Skills: <img src="https://github.com/charmilgandhi/charmilgandhi/blob/master/media/Developer.gif" width="50" height="40" />
-- Languages: JavaScript, Python, Java, C++ 
+- Languages: JavaScript, Typescript, Python, Java, C++ 
 - Data Structures and Algorithms
-- Web Development: HTML5, Cascading StyleSheets (CSS3), JavaScript, ReactJS, NodeJs, Python, Unit Testing, Automation Testing (Selenium, SpecFlow)
-- Databases: MySQL, MongoDB, SQLite, Firebase
+- Technologies: HTML5, Cascading StyleSheets (CSS3), ReactJS, Nextjs, Redux, NodeJs, Unit Testing, Automation Testing (Selenium, SpecFlow)
+- Databases: MySQL, MongoDB, SQLite, NoSQL, Firebase
 - Web App Development:  MERN Stack, Django Framework
+- Cloud: Docker, Heroku, Vercel, Github Pipelines
 </br>
 
 ### Languages and Tools:
